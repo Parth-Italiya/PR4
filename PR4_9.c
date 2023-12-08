@@ -1,3 +1,11 @@
+/*
+A
+B  1
+C  2  D
+E  3  F  4
+G  5  H  6  I
+*/
+
 #include<stdio.h>
 
 void main(){

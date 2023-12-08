@@ -1,3 +1,11 @@
+/*
+10101
+ 1010
+  101
+   10
+    1
+*/
+
 #include<stdio.h>
 void main(){
 	int i,j,k;
